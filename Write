@@ -1,0 +1,6 @@
+1. At the top, please list your first name, last name, and your email address. 2. Indicate whether you chose to do a classification or regression task and why. 
+3. Explain any data preprocessing you tried and used. If you used an external word embedding model to preprocess your tweets, please provide a name and refer ence to it. 
+4. What were the features (post preprocessing) you trained the machine learning model on, and what were the targets (post preprocessing)? Please list the fea ture names, domain, and type in a table (similar to the one we provided in the Dataset section. 
+5. Indicate the type of machine learning model you used and any hyperparameters you adjusted or specified. If you used a neural network, please list the input, hidden, and output layers you used with their respective sizes and activation functions. Why did you settle on this model/architecture? What were the steps that led you to it? 
+6. If applicable, indicate the loss and optimizer for your machine learning model. 7. How did you split the training, validation (if applicable), and test data? 
+8. What evaluation metrics did you use to evaluate your model? What were your results? 
